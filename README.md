@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 About me
 
-Backend-focused full-stack engineer with **2.5+ years** of production experience building high-throughput services in **Node.js/TypeScript** and **Python (FastAPI, Flask)**, with additional services in **Rust**. I like owning features end to end — schema design, API design, queues and caching, auth, CI/CD and production debugging — and I've shipped **AI-agent workflows** (OpenAI GPT-4o, LangGraph) and **multi-chain Web3 integrations** (Solana, EVM) alongside classic web backends.
+Backend-focused full-stack engineer with **3+ years** of production experience building high-throughput services in **Node.js/TypeScript** and **Python (FastAPI, Flask)**, with additional services in **Rust**. I like owning features end to end — schema design, API design, queues and caching, auth, CI/CD and production debugging — and I've shipped **AI-agent workflows** (OpenAI GPT-4o, LangGraph) and **multi-chain Web3 integrations** (Solana, EVM) alongside classic web backends.
 
 Today I work as a **Forward Deployed Engineer**: embedded with the teams that use what I build, turning loosely defined problems into working pipelines and tooling — most recently **AI task-data generation pipelines with structured QC** and **code-migration benchmark datasets** (JDK 8 → 17, framework conversions in TypeScript and Go) with agent-driven patching loops and Docker-based test execution.
 
